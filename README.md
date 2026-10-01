@@ -1,6 +1,8 @@
 # -_Clasificador_de_notas_en_java_- :.
 # 📚 Clasificador de Notas en Java:
 
+<img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/82cb156e-6ab7-44e5-bcf8-086d08647551" />    
+
 ```
 
 Programa **básico en Java** desarrollado para trabajar en **IntelliJ IDEA**.
